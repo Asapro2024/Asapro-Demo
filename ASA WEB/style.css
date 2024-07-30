@@ -1,0 +1,156 @@
+
+img {
+    width: 40px;
+   padding-left: 25px;
+}
+header {
+    padding-top: 25px;
+    padding-bottom: 15px;
+    background-color: rgb(0, 0, 0);
+}
+select {
+    float: right;
+}
+h4{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+#today {
+    border: none;
+    color: white;
+    background-color: black;
+    padding: 8px;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+strong{
+    font-size: 30px;
+}
+.CS {width: 100%;
+    float: right;
+}
+#menu{
+    color: white;
+    font-size: 30px;
+    float: right;
+    padding-right: 20px;
+}
+#us{
+    font-size: 20px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 10px 10px;
+    border-radius: 50%;
+    
+}
+#block1{
+    background-color: white;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 2px;
+    width: 90%;     
+}
+.ch1{
+    padding-bottom: 50px;
+    padding-top: 20px;
+    
+}
+.our1 {
+    background-color: black;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#block2{
+    background-color: black;
+    border-radius: 10px;
+    border-color: white;
+    border-width: 2px;
+    width: 80%;  
+    color: white;   
+}
+.ch3{
+    font-size: small;
+}
+#folio{
+    width: 95%;
+    padding-left: 0px;
+}
+#folio1{
+    width: 45%;
+    float: left;
+    padding-left: 10px;
+    
+}
+#folio11{
+    width: 43%;
+    float: left;  
+}
+.pp1 {
+    float: left;
+    text-align: left;
+    padding-left: 10px;
+}
+#view{
+    border-width: 1px;
+    border-color: black;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding: 7px 14px;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.exp{
+    background-color: black;  
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.ch4{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+#touch {
+    border: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding: 7px 14px;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.aboo{width: 90%;
+
+}
+.u11{
+    font-size: 20px;
+}
+input{
+    width: 80%;
+}
+.fb1{
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+}
+#info{
+    padding-top: 20px;
+}
+.btn2{
+    border: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding: 7px 14px;
+    border-radius: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#us12{
+    float: right;
+    font-size: 25px;
+    padding-right: 25px;
+}
